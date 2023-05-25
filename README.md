@@ -40,5 +40,5 @@ The GitHub repository for this project follows professional best practices:
 The dataset used for analysis is sourced from IMDB. The original dataset can be found at [IMDB Datasets](https://www.imdb.com/interfaces/).
 
 ## Presentation
-For a comprehensive presentation of the project, including the problem statement, data analysis, findings, and recommendations, please refer to the [https://www.canva.com/design/DAFj9yKPmx0/SHwm4RGgTiWnxR6YL25udw/edit?utm_content=DAFj9yKPmx0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](link-to-presentation).
+For a comprehensive presentation of the project, including the problem statement, data analysis, findings, and recommendations, please refer to the https://www.canva.com/design/DAFj9yKPmx0/qSUjPfKKwFZcEGMH95z9_w/view?utm_content=DAFj9yKPmx0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink (link-to-presentation).
 
