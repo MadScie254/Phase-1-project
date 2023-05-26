@@ -1,5 +1,4 @@
 # Movie Analysis Project
-sdjfhksdjfhkjsdfhkjsd
 
 ## Introduction
 This project aims to analyze movie data to provide insights and recommendations for a new movie studio. The dataset used for analysis is sourced from IMDB and includes information on movie budgets, release dates, domestic and worldwide gross sales, and other relevant details.
